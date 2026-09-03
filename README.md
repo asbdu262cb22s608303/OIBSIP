@@ -5,8 +5,8 @@
 
 ### Completed Tasks:
 - Task 1: Voice Assistant - voice_assistant.py
-- Task 2: BMI Calculator - Python-Task2-BMICalculator / bmi_calculator.py
-
+- Task 2: BMI Calculator - Python-Task2-BMICalculator / bmi_calculator.
+- Task 3: Random Password Generator - random_password_generator.py
 ### Tech Stack: Python
 ### Organization: Oasis Infobyte
 
